@@ -1,2 +1,2 @@
 # dmac
-pipelines written for mit's data management analysis core
+pipelines written for biomicro center's data management analysis core, fall 2023
